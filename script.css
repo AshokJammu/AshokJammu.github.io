@@ -1,0 +1,29 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 33px;
+    color: #707070;
+}
+
+.myPhoto {
+    height: 200px;
+    width: 200px;
+    background: -webkit-linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+}
+
+.myIcon {
+    font-size: 30px;
+}
+
+.static-div {
+    height: 160px;
+    width: 160px;
+    border: 1rem #30D2BE inset;
+}
+
+.resume {
+    background: -webkit-linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+}
